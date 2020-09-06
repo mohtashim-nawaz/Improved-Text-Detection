@@ -15,5 +15,6 @@ We are in process of writing our findings as a report, link to which shall be pu
 - Numpy
 - Matplotlib
 - Other general pyhton libarries
+
 To test the images run the Testing Jupyter Notebook by passing the path to original images and number of images to be tested.
 
