@@ -21,7 +21,9 @@ We found PSENet works best for our dataset images after transformation. So we re
 To test the images run the Testing Jupyter Notebook by passing the path to original images and number of images to be tested.
 
 Link to dataset: [DATASET](https://drive.google.com/drive/folders/16CmJYDoa6PHEQ3pwfcdxYUJkKUlaFXUG?usp=sharing)
+
 Github PSENet Repo:[PSENet Github](https://github.com/whai362/PSENet)
+
 PSENet modified by us removing errors:[PSENet Modified](https://drive.google.com/drive/folders/1paZEOq8xzJwZ8Hk2n_CYEc7dfiw-DvDv?usp=sharing)
 
 We thank PSENet developers and researchers for providing us an amazing algorithm.
